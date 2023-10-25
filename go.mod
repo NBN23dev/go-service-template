@@ -12,7 +12,7 @@ require (
 	github.com/onsi/gomega v1.28.0
 	go.opencensus.io v0.24.0
 	golang.org/x/net v0.15.0
-	google.golang.org/grpc v1.58.2
+	google.golang.org/grpc v1.58.3
 	google.golang.org/protobuf v1.31.0
 )
 
